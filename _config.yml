@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Elliott's theme
+description: Jekyll theme focused on a clean, bold, minmalist style.
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
