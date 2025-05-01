@@ -1,10 +1,16 @@
+html {
+  background-color: #F4B886;
+  font-family: "DM Sans", sans-serif;
+  margin: 3%;
+}
+
 body {
-    background-color: #F6D0B1;
-    font-family: "DM Sans", sans-serif;
-    margin: 2%;
-    text-align: left;
-    color: #273043;
-  }
-  h1 {
-    
-  }
+  text-align: center;
+  color: #273043;
+  padding: 1%;
+  background-color: #F6D0B1;
+  border-radius: 5%;
+}
+h1 {
+  font-size: 500%;
+}
