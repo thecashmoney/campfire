@@ -1,14 +1,23 @@
 html {
-  background-color: #F4B886;
+  --bg: #F4B886;
+  --accent: #F6D0B1;
+  --text: #273043;
   font-family: "DM Sans", sans-serif;
   margin: 3%;
+  background-color: var(--bg);
+}
+
+html[data-theme='dark'] {
+  --bg: #273043;
+  --accent: #7389AE;
+  --text: #ffca9f;
 }
 
 body {
   text-align: center;
-  color: #273043;
+  color: var(--text);
   padding: 1%;
-  background-color: #F6D0B1;
+  background-color: var(--accent);
   border-radius: 5%;
 }
 h1 {
