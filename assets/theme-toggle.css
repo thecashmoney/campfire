@@ -90,8 +90,8 @@
     -webkit-tap-highlight-color: transparent;
     outline-offset: 5px;
     position: fixed;
-    top: 90%;
-    left: 5%;
+    top: 95%;
+    left: 1%;
 }
 
 .theme-toggle>svg {
